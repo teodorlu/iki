@@ -11,7 +11,7 @@ To install IKI,
 
         git clone https://github.com/teodorlu/iki-clj.git
         
-2. Then install the script with [babashka/bbin][babashka-bbin]:
+2. then install the script with [babashka/bbin][babashka-bbin]
 
         bbin install ./iki-clj/
 
