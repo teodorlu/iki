@@ -1,3 +1,3 @@
 {:paths [".bb"]
  :deps {io.github.teodorlu/iki-clj {:local/root "."}}
- :bbin/bin {carve {:main-opts ["-m" "teodorlu.iki/-main"]}}}
+ :bbin/bin {iki {:main-opts ["-m" "teodorlu.iki/-main"]}}}
