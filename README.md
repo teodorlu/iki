@@ -7,7 +7,7 @@ Among others a Clojure CLI.
 
 To install IKI,
 
-1. Clone the repo
+1. Clone the repo,
 
         git clone https://github.com/teodorlu/iki-clj.git
         
