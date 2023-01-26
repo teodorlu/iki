@@ -1,11 +1,10 @@
 # IKI
 
-IKI is many things.
-Among others a Clojure CLI.
+IKI is a text-based toolkit for collective knowledge management.
 
 ## Installing
 
-To install IKI,
+To install the IKI CLI,
 
 1. Clone the repo,
 
