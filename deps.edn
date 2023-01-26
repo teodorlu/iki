@@ -1,3 +1,4 @@
 {:deps {babashka/fs {:mvn/version "0.2.14"}
         babashka/process {:mvn/version "0.4.15"}}
+ :paths ["src"]
  :aliases {}}
