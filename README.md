@@ -1,6 +1,6 @@
 # IKI
 
-IKI is a text-based toolkit for collective knowledge management.
+IKI is a text-based collective knowledge management toolkit for Babashka zealots.
 
 ## Installing
 
