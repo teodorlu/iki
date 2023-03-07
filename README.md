@@ -8,10 +8,10 @@ To install the IKI CLI,
 
 1. Clone the repo,
 
-        git clone https://github.com/teodorlu/iki-clj.git
+        git clone https://github.com/teodorlu/iki.git
         
 2. then install the script with [babashka/bbin][babashka-bbin]
 
-        bbin install ./iki-clj/
+        bbin install ./iki/
 
 [babashka-bbin]: https://github.com/babashka/bbin
