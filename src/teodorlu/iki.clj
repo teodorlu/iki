@@ -3,6 +3,12 @@
    [babashka.cli :as cli]
    [clojure.string :as str]))
 
+(defn iki-help [{}]
+  (println (str/trim "
+The IKI CLI is not yet ready. Please stay put!
+"))
+  )
+
 (defn list-pages [{}])
 
 (declare dispatch-table)
@@ -17,7 +23,8 @@
       (println (str "  " "neil-quickadd " (str/join " " cmds) helptext)))))
 
 (def dispatch-table
-  [{:cmds ["list-pages"] :fn list-pages}
+  [{:cmds []             :fn iki-help}
+   {:cmds ["list-pages"] :fn list-pages}
    {:cmds ["help"]       :fn print-subcommands :helptext "Get help!"}])
 
 (defn -main [& args]
