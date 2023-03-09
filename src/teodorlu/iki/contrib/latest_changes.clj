@@ -20,7 +20,7 @@
          items (->> index by-latest (take n))]
      (doseq [group-items (partition group-size items)]
        (println)
-       (doseq [{:keys [slug created _title] :as item} group-items]
+       (doseq [{:keys [slug created _title] :as _item} group-items]
          (println (format "%-50s (%s)" slug created)))
        ))))
 
