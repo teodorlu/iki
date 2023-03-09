@@ -27,12 +27,18 @@ If you want something you can use now, please consider:
 3. Make a [Babashka pod] for [Pandoc].
 4. Dig into the [play.teod.eu source] to understand the page-oriented information model.
    Then consider making your own idea playground to support your aesthetic.
+5. Try [Electric Clojure]
+6. Try [Clerk]
+7. Engage with people who share their work on the [Clojurians Slack]
 
 [Friendly Ambitious Nerd]: https://visakanv.gumroad.com/l/FANbook
 [Introspect]: https://visakanv.gumroad.com/l/introspect
 [Babashka pod]: https://github.com/babashka/pods
 [Pandoc]: https://pandoc.org/
 [play.teod.eu source]: https://github.com/teodorlu/play.teod.eu
+[Electric Clojure]: https://github.com/hyperfiddle/electric
+[Clerk]: https://clerk.vision/
+[Clojurians Slack]: https://clojurians.slack.com/
 
 ## Installing
 
