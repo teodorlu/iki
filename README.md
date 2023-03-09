@@ -30,6 +30,7 @@ If you want something you can use now, please consider:
 5. Try [Electric Clojure]
 6. Try [Clerk]
 7. Engage with people who share their work on the [Clojurians Slack]
+8. Explore [play.teod.eu] and let me know what you think!
 
 [Friendly Ambitious Nerd]: https://visakanv.gumroad.com/l/FANbook
 [Introspect]: https://visakanv.gumroad.com/l/introspect
@@ -39,6 +40,7 @@ If you want something you can use now, please consider:
 [Electric Clojure]: https://github.com/hyperfiddle/electric
 [Clerk]: https://clerk.vision/
 [Clojurians Slack]: https://clojurians.slack.com/
+[play.teod.eu]: https://play.teod.eu
 
 ## Installing
 
