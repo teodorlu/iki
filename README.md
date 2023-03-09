@@ -22,9 +22,12 @@ If you want something you can use *right now*, please consider:
 
 1. Consider pursuing something you're interested in, and sharing that journey online
 2. A [Babashka pod] for [Pandoc]
+3. Dig into the [play.teod.eu source] to understand the page-oriented information model.
+   Then consider making your own idea playground to support your aesthetic.
 
 [Babashka pod]: https://github.com/babashka/pods
 [Pandoc]: https://pandoc.org/
+[play.teod.eu source]: https://github.com/teodorlu/play.teod.eu
 
 ## Installing
 
