@@ -4,7 +4,7 @@ IKI is a flexible toolkit for building knowledge.
 
 ## Completion status: highly experimental.
 
-If you want something you can use *right now*, please consider:
+If you want something you can use now, please consider:
 
 - [Roam Research]
 - [Logseq]
