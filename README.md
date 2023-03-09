@@ -21,9 +21,9 @@ If you want something you can use now, please consider:
 ## Want to help?
 
 1. Consider pursuing something you're interested in, and sharing that journey online.
-2. If 1. is too vague and you want something more specific
-        , read [Friendly Ambitious Nerd] and [Introspect]
-        , then revisit 1.
+2. If 1. is too vague and you want something more specific,
+        read [Friendly Ambitious Nerd] and [Introspect],
+        then revisit 1.
 3. A [Babashka pod] for [Pandoc].
 4. Dig into the [play.teod.eu source] to understand the page-oriented information model.
    Then consider making your own idea playground to support your aesthetic.
